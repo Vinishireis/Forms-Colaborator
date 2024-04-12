@@ -1,4 +1,7 @@
 A pen created on Vinishireis
+
+https://github.com/Vinishireis/Forms-Colaborator/assets/95651095/a146cd0f-e165-4828-82cf-afe58955a854
+
 ---
 Forms Colaborator Responsive
 Layout and Structure:
@@ -29,4 +32,12 @@ Testing and Feedback:
 Conduct extensive testing of the form on different devices and browsers to identify and fix layout or functionality issues.
 Seek user feedback on form usability, especially on mobile devices, and make adjustments based on that feedback.
 ---
-<video controls src="Forms-Colaborator-1.mp4" title="Forms-Colaborator"></video>
+
+![image](https://github.com/Vinishireis/Forms-Colaborator/assets/95651095/63cece51-f8e0-4ba7-8bff-5c3d40aa7931)
+![image](https://github.com/Vinishireis/Forms-Colaborator/assets/95651095/9f6f5488-6293-4cff-98ab-5fa5284c537c)
+
+
+
+
+
+
